@@ -10,7 +10,7 @@ from selenium.webdriver.support.ui import Select, WebDriverWait
 execution_start_time = time.time()
 
 # change these parameters
-promotional_message = "Hi this is Jay, testing whatsapp bulk sms sender hack 2.0. If you like it give a *thumbs up!*"
+promotional_message = "The Palestinians lost everything. Their homes, their relatives, their dignity, their personal belongings. Now there is also no water, electricity, internet or medicine. www.helppalestinians.online"
 filename = "contacts_sheet.csv"
 
 # constants
